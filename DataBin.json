@@ -3,11 +3,11 @@
     "appInfo": [
       {
         "appName": "Labu",
-        "appVer": "1.2",
+        "appVer": "1.3",
         "appPublisher": "Portal",
         "appReleaseDate": "25/3/2022",
         "appVerified": true,
-        "appUpdateUrl": "None",
+        "appUpdateUrl": "https://download942.mediafire.com/wgtpe9x11h9g/a416ef8l4pawzt6/labu.zip",
         "appCanUpdate": true,
         "appReadMe": "https://raw.githubusercontent.com/LabuShell/Labu-Shell/main/README.MD"
       }
