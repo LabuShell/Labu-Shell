@@ -1,5 +1,4 @@
-(C) COPYRIGHT BAKERMAN, INC 2022
-#################################
+# (C) COPYRIGHT BAKERMAN, INC 2022
 
 Introduce our Python Shell Based on Windows !!!
 this is new software and free!
