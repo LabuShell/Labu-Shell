@@ -8,7 +8,8 @@
         "appReleaseDate": "25/3/2022",
         "appVerified": true,
         "appUpdateUrl": "None",
-        "appCanUpdate": false
+        "appCanUpdate": true,
+        "appReadMe": "None"
       }
     ]
   }
